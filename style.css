@@ -3,3 +3,13 @@ YOUR CODE.
     background-color:#33045d;
     color:rgb(255, 184, 53);
 }
+.Announcements {
+    border: 10px solid #33045d;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    width: 1350px;
+    height: 120px;
+    text-align: center;
+    display: inline-block;
+}
