@@ -1,4 +1,88 @@
-YOUR CODE.
+body{
+    background-color: #ebf1f2;
+}
+nav{
+    background-color: #33045d;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Grande', sans-serif;
+}
+nav ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+nav a:hover{
+    background-color: #9CABB4
+}
+h1,h2{
+    font-family: 'Lucida Sans', 'Lucida Grande', sans-serif;
+}
+h1{
+    text-align: center;
+    color:rgb(255, 184, 53);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    text-align: center;
+    color:rgb(115, 204, 245);
+}
+footer{
+    background-color: #33045d;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Grande', sans-serif;    
+}
+footer ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+footer li{
+    display: inline;
+    margin-right: 40px;
+}
+footer a{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+footer a:hover{
+    background-color: #6e7c84;
+}
+.h2class{
+    color:white;
+}
+.first{
+    background-color: #7545cf;
+}
+.goal{
+    text-align: left;
+    color: #eb8e23;
+}
+.sungoal{
+    text-align: left;
+    color: #000000;
+}
+.schedule{
+    background-color: #33045d;
+    color: rgb(255, 184, 53);
+}
+table, th, td{
+    border: 2px solid #42485e;
+    column-width: 1000px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+
+
+
+
+
+
 .activ{
     background-color:#33045d;
     color:rgb(255, 184, 53);
