@@ -85,6 +85,10 @@ table, th, td{
     background-color:#33045d;
     color:rgb(255, 184, 53);
 }
+.ann-head{
+    background-color: #33045d;
+    color: rgb(255, 184, 53);
+}
 .Announcements {
     border: 10px solid #33045d;
     border-radius: 20px;
